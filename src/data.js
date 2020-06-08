@@ -1,17 +1,12 @@
-/* 
-https://www.iconfinder.com/icons/1243689/call_phone_icon
-Creative Commons (Attribution 3.0 Unported);
-https://www.iconfinder.com/Makoto_msk */
-
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
+    title: "Google - Black",
     img: "img/product-1.png",
     price: 10,
     company: "GOOGLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Google smartphone was launched on 14th November 2019. The phone comes with a 6.20-inch touchscreen display with a resolution of 720x1520 pixels and an aspect ratio of 19:9. HTC Desire 19s is powered by an octa-core MediaTek Helio P22 processor. It comes with 3GB of RAM. The HTC Desire 19s runs Android 9.0 Pie and is powered by a 3850mAh battery. As far as the cameras are concerned, the HTC Desire 19s on the rear packs a 13-megapixel primary camera with an f/1.85 aperture; a second 5-megapixel camera with an f/2.2 aperture and a third 5-megapixel camera with an f/2.2 aperture. The rear camera setup has autofocus. It sports a 16-megapixel camera on the front for selfies, with an f/2.0 aperture.The HTC Desire 19s runs Sense based on Android 9.0 Pie and packs 32GB of inbuilt storage that can be expanded via microSD card. The HTC Desire 19s is a dual-SIM smartphone that accepts Nano-SIM and Nano-SIM cards. The HTC Desire 19s measures 156.20 x 74.80 x 8.47mm (height x width x thickness) and weighs 170.00 grams. It was launched in Blue and Black colours. Connectivity options on the HTC Desire 19s include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v5.00, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, proximity sensor, and fingerprint sensor",
     inCart: false,
     count: 0,
     total: 0
@@ -23,7 +18,7 @@ export const storeProducts = [
     price: 16,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Dimensions	142.4 x 69.6 x 7.9 mm (5.61 x 2.74 x 0.31 in) Weight	152 g (5.36 oz) Build	Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame SIM	Single SIM (Nano-SIM) - G930F Hybrid Dual SIM (Nano-SIM, dual stand-by) - G930FD Samsung Pay (Visa, MasterCard certified) IP68 dust/water resistant (up to 1.5m for 30 mins)",
     inCart: false,
     count: 0,
     total: 0
@@ -35,7 +30,7 @@ export const storeProducts = [
     price: 8,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "HTC Desire 10 smartphone was launched on 14th November 2019. The phone comes with a 6.20-inch touchscreen display with a resolution of 720x1520 pixels and an aspect ratio of 19:9. HTC Desire 19s is powered by an octa-core MediaTek Helio P22 processor. It comes with 3GB of RAM. The HTC Desire 19s runs Android 9.0 Pie and is powered by a 3850mAh battery. As far as the cameras are concerned, the HTC Desire 19s on the rear packs a 13-megapixel primary camera with an f/1.85 aperture; a second 5-megapixel camera with an f/2.2 aperture and a third 5-megapixel camera with an f/2.2 aperture. The rear camera setup has autofocus. It sports a 16-megapixel camera on the front for selfies, with an f/2.0 aperture.The HTC Desire 19s runs Sense based on Android 9.0 Pie and packs 32GB of inbuilt storage that can be expanded via microSD card. The HTC Desire 19s is a dual-SIM smartphone that accepts Nano-SIM and Nano-SIM cards. The HTC Desire 19s measures 156.20 x 74.80 x 8.47mm (height x width x thickness) and weighs 170.00 grams. It was launched in Blue and Black colours. Connectivity options on the HTC Desire 19s include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v5.00, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, proximity sensor, and fingerprint sensor",
     inCart: false,
     count: 0,
     total: 0
@@ -47,29 +42,29 @@ export const storeProducts = [
     price: 18,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "HTC Desire 10 smartphone was launched on 14th November 2019. The phone comes with a 6.20-inch touchscreen display with a resolution of 720x1520 pixels and an aspect ratio of 19:9. HTC Desire 19s is powered by an octa-core MediaTek Helio P22 processor. It comes with 3GB of RAM. The HTC Desire 19s runs Android 9.0 Pie and is powered by a 3850mAh battery. As far as the cameras are concerned, the HTC Desire 19s on the rear packs a 13-megapixel primary camera with an f/1.85 aperture; a second 5-megapixel camera with an f/2.2 aperture and a third 5-megapixel camera with an f/2.2 aperture. The rear camera setup has autofocus. It sports a 16-megapixel camera on the front for selfies, with an f/2.0 aperture.The HTC Desire 19s runs Sense based on Android 9.0 Pie and packs 32GB of inbuilt storage that can be expanded via microSD card. The HTC Desire 19s is a dual-SIM smartphone that accepts Nano-SIM and Nano-SIM cards. The HTC Desire 19s measures 156.20 x 74.80 x 8.47mm (height x width x thickness) and weighs 170.00 grams. It was launched in Blue and Black colours. Connectivity options on the HTC Desire 19s include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v5.00, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, proximity sensor, and fingerprint sensor",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
-    img: "img/product-5.png",
-    price: 24,
-    company: "htc",
+    title: "Trump",
+    img: "img/trump.png",
+    price: 1,
+    company: "USA",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Donald John Trump (born June 14, 1946) is the 45th and current president of the United States. Before entering politics, he was a businessman and television personality.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
-    img: "img/product-6.png",
-    price: 17,
-    company: "apple",
+    title: "Osama",
+    img: "img/osama.jpg",
+    price: 2000000,
+    company: "osama",
     info:
       "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,
@@ -83,7 +78,7 @@ export const storeProducts = [
     price: 30,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "HTC Desire 10 smartphone was launched on 14th November 2019. The phone comes with a 6.20-inch touchscreen display with a resolution of 720x1520 pixels and an aspect ratio of 19:9. HTC Desire 19s is powered by an octa-core MediaTek Helio P22 processor. It comes with 3GB of RAM. The HTC Desire 19s runs Android 9.0 Pie and is powered by a 3850mAh battery. As far as the cameras are concerned, the HTC Desire 19s on the rear packs a 13-megapixel primary camera with an f/1.85 aperture; a second 5-megapixel camera with an f/2.2 aperture and a third 5-megapixel camera with an f/2.2 aperture. The rear camera setup has autofocus. It sports a 16-megapixel camera on the front for selfies, with an f/2.0 aperture.The HTC Desire 19s runs Sense based on Android 9.0 Pie and packs 32GB of inbuilt storage that can be expanded via microSD card. The HTC Desire 19s is a dual-SIM smartphone that accepts Nano-SIM and Nano-SIM cards. The HTC Desire 19s measures 156.20 x 74.80 x 8.47mm (height x width x thickness) and weighs 170.00 grams. It was launched in Blue and Black colours. Connectivity options on the HTC Desire 19s include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v5.00, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, proximity sensor, and fingerprint sensor",
     inCart: false,
     count: 0,
     total: 0
@@ -95,7 +90,58 @@ export const storeProducts = [
     price: 2,
     company: "apple",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "HTC Desire 10 smartphone was launched on 14th November 2019. The phone comes with a 6.20-inch touchscreen display with a resolution of 720x1520 pixels and an aspect ratio of 19:9. HTC Desire 19s is powered by an octa-core MediaTek Helio P22 processor. It comes with 3GB of RAM. The HTC Desire 19s runs Android 9.0 Pie and is powered by a 3850mAh battery. As far as the cameras are concerned, the HTC Desire 19s on the rear packs a 13-megapixel primary camera with an f/1.85 aperture; a second 5-megapixel camera with an f/2.2 aperture and a third 5-megapixel camera with an f/2.2 aperture. The rear camera setup has autofocus. It sports a 16-megapixel camera on the front for selfies, with an f/2.0 aperture.The HTC Desire 19s runs Sense based on Android 9.0 Pie and packs 32GB of inbuilt storage that can be expanded via microSD card. The HTC Desire 19s is a dual-SIM smartphone that accepts Nano-SIM and Nano-SIM cards. The HTC Desire 19s measures 156.20 x 74.80 x 8.47mm (height x width x thickness) and weighs 170.00 grams. It was launched in Blue and Black colours. Connectivity options on the HTC Desire 19s include Wi-Fi 802.11 a/b/g/n/ac, GPS, Bluetooth v5.00, NFC, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, proximity sensor, and fingerprint sensor",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 9,
+    title: "OsamaGdn",
+    img: "img/osama2.jpg",
+    price: 20000,
+    company: "Osama",
+    info:
+    "osama gdnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+    inCart: false,
+    count: 0,
+    total: 0
+  }
+  ,
+  {
+    id: 10,
+    title: "OsamaGdn",
+    img: "img/osama2.jpg",
+    price: 30000,
+    company: "Osama",
+    info:
+    "osama gdnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+    inCart: false,
+    count: 0,
+    total: 0
+  }
+  ,
+  {
+    id: 12,
+    title: "OsamaGdn",
+    img: "img/osama2.jpg",
+    price: 50000,
+    company: "Osama",
+    info:
+    "osama gdnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+    inCart: false,
+    count: 0,
+    total: 0
+  }
+  ,
+  {
+    id: 13,
+    title: "OsamaGdn",
+    img: "img/osama2.jpg",
+    price: 60000,
+    company: "Osama",
+    info:
+    "osama gdnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
     inCart: false,
     count: 0,
     total: 0
